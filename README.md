@@ -2,7 +2,7 @@
 Portfolio of my bioinformatics skills and academic projects
 # Hi, I'm Safa Mohammed 
 
-Bioinformatics student with a strong background in Chemistry. I am interested in immunology, infectious diseases, drug discovery and designing, antimicrobial resistance, and computational data analysis for biological research. I have completed a postgraduate diploma in Bioinformatics, where I work with sequence analysis, protein annotation, and proteomic tools.
+Bioinformatics student with a strong background in Chemistry. I am interested in immunology, infectious diseases, drug discovery, antimicrobial resistance, and computational data analysis for biological research. I have completed a postgraduate diploma in Bioinformatics, where I work with sequence analysis, protein annotation, and proteomic tools.
 
 ### Research Interests
 - Host–pathogen interactions  
